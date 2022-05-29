@@ -79,7 +79,5 @@ if __name__ == '__main__':
     print('Доходность и риск стратегии поддержки и сопротивления ' + str(round(SR * 100, 2)) + '% и ' + str(
         round(SR_risk * 100, 2)) + '%')
 
-
-
     #print(data)
     plt.show()
